@@ -19,6 +19,10 @@ Each section is written by a different team member.
 ## Notion
 
 **Notion** is an all-in-one workspace designed for note-taking, project management, and task organization. It provides a customizable canvas where students can track assignments, build study databases, and manage personal schedules.
+### Useful features
+**Notes** store lecture notes and study materials
+**To do list** Track assignment and task
+**Calendars.** Keep track of deadline and important datess
 
 ### Why Students Should Use It
 - **All-in-One Hub:** Combines notes, docs, task lists, and calendars into a single application.
